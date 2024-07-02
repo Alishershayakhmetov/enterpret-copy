@@ -638,6 +638,223 @@ export default function Begin() {
                     onClick={() => handleSlideIndex(slideIndex + 1)}
                   ></div>
                 </div>
+                <img
+                  src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/6506d20510237164c6100755_%E2%80%9C%20(1).webp"
+                  className="absolute-slider-tag"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="padding-global">
+        <div className="container-large section">
+          <div className="relative">
+            <div className="extra-padding">
+              <div className="bottom-banner-on-homepage">
+                <div className="banner-title text-center">
+                  Struggling to scale customer insights?
+                </div>
+                <div className="banner-subtext center top-margin-16-2">
+                  Join customer-centric companies and start driving revenue and
+                  reduce churn with Enterpret.
+                </div>
+                <a
+                  href="https://www.enterpret.com/enterpret-in-action"
+                  className="black-cta-banner top-margin-30 w-inline-block"
+                >
+                  <img
+                    src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/6506d8aa91feec8652da7e1f_Group%201801646.webp"
+                    className="img"
+                    width={36.5}
+                  />
+                  <div className="black-button-text">
+                    Get a demo with your data
+                  </div>
+                </a>
+                <div className="banner-image-absolute-one">
+                  <img
+                    src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/6509ed92c684d5f4210dbe47_Mask%20group%20(14).webp"
+                    className="img"
+                    width={196}
+                  />
+                </div>
+                <div className="banner-image-absolute-second">
+                  <img
+                    src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/6509ed92ac966ebcf5de4dea_Mask%20group%20(13).webp"
+                    loading="lazy"
+                    width={196}
+                  />
+                </div>
+              </div>
+            </div>
+            <div className="footer-gradient" />
+          </div>
+        </div>
+      </div>
+      <div className="section_footer top-border">
+        <div className="padding-global">
+          <div className="container-large">
+            <div className="extra-padding">
+              <div className="footer-wrapper">
+                <div className="footer-wrapper-left">
+                  <a
+                    href="https://www.enterpret.com/old-home"
+                    className="w-inline-block"
+                  >
+                    <img
+                      src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/6504838be48715c9bfc65cf5_image%2033%20(1).webp"
+                      loading="lazy"
+                      height={36}
+                      width={206}
+                    />
+                  </a>
+                  <div className="homepage-hero-subtext is-footer top-margin-20">
+                    Customer Feedback Analytics
+                    <br />
+                    like it is supposed to be!
+                  </div>
+                  <div className="social-icons-wrapper top-margin-36">
+                    <a
+                      href="https://www.linkedin.com/company/enterpret/"
+                      target="_blank"
+                      className="social-link w-inline-block"
+                    >
+                      <img
+                        src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/650483745108b54093267fe3_image%2031.webp"
+                        loading="lazy"
+                        width="32"
+                        alt=""
+                      />
+                    </a>
+                    <a
+                      href="https://twitter.com/enterpret_ai"
+                      target="_blank"
+                      className="social-link w-inline-block"
+                    >
+                      <img
+                        src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/65048375061c4f771cf0a744_image%2032.webp"
+                        loading="lazy"
+                        width="32"
+                        alt=""
+                      />
+                    </a>
+                    <a
+                      href="https://www.youtube.com/@enterpret"
+                      target="_blank"
+                      className="social-link w-inline-block"
+                    >
+                      <img
+                        src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/65dc290922b6ba3faede460d_youtube-svgrepo-com.svg"
+                        loading="lazy"
+                        width="32"
+                        alt=""
+                      />
+                    </a>
+                    <a
+                      href="https://www.g2.com/products/enterpret-inc-enterpret/reviews#reviews"
+                      target="_blank"
+                      className="social-link w-inline-block"
+                    >
+                      <img
+                        src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/65dc2c297eb940ee37a02317_G2_grey.svg"
+                        loading="lazy"
+                        width="32"
+                        alt=""
+                      />
+                    </a>
+                  </div>
+                  <div className="text-medium-16 is-footer-text top-margin-20">
+                    Copyright © Enterpret Inc. 2024 All Rights Reserved
+                  </div>
+                </div>
+                <div className="footer-wrapper-right">
+                  <div className="footer_wrapper-right-column">
+                    <div className="footer-items-title">Company</div>
+                    <a
+                      href="https://www.enterpret.com/old-home"
+                      className="footer-items"
+                    >
+                      Home
+                    </a>
+                    <a
+                      href="https://www.enterpret.com/about-us"
+                      className="footer-items"
+                    >
+                      About Us
+                    </a>
+                    <a
+                      href="https://boards.greenhouse.io/enterpret/"
+                      className="footer-items"
+                    >
+                      Careers
+                    </a>
+                    <a
+                      href="https://techcrunch.com/2022/03/02/enterpret-launches-with-4-4m-nlp-technology-to-decipher-customer-feedback/"
+                      target="_blank"
+                      className="footer-items"
+                    >
+                      Press
+                    </a>
+                  </div>
+
+                  <div className="footer_wrapper-right-column">
+                    <div className="footer-items-title">Products</div>
+                    <a
+                      href="https://www.enterpret.com/changelog"
+                      className="footer-items"
+                    >
+                      Changelog
+                    </a>
+                    <a
+                      href="https://www.enterpret.com/about-us"
+                      className="footer-items"
+                    >
+                      About Us
+                    </a>
+                    <a
+                      href="https://boards.greenhouse.io/enterpret/"
+                      className="footer-items"
+                    >
+                      Careers
+                    </a>
+                    <a
+                      href="https://techcrunch.com/2022/03/02/enterpret-launches-with-4-4m-nlp-technology-to-decipher-customer-feedback/"
+                      target="_blank"
+                      className="footer-items"
+                    >
+                      Press
+                    </a>
+                  </div>
+
+                  <div className="footer_wrapper-right-column">
+                    <div className="footer-items-title">Company</div>
+                    <a
+                      href="https://www.enterpret.com/privacy-and-policy"
+                      className="footer-items"
+                    >
+                      Privacy policy
+                    </a>
+                    <a
+                      href="https://www.enterpret.com/security"
+                      className="footer-items"
+                    >
+                      Security
+                    </a>
+                    <a
+                      href="https://www.enterpret.com/privacy-commitment"
+                      className="footer-items"
+                    >
+                      Commitment to Privacy
+                    </a>
+                    <a
+                      href="https://www.enterpret.com/contact-us"
+                      className="footer-items"
+                    >
+                      Contact Us
+                    </a>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
