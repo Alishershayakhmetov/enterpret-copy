@@ -27,7 +27,7 @@ import validate from "../assets/validate.webp";
 import synced from "../assets/synced.webp";
 
 import "../assets/styles.scss";
-import React, { useState } from "react";
+import { useState } from "react";
 
 export default function Header() {
   const [isMenuActive, setIsMenuActive] = useState(false);
