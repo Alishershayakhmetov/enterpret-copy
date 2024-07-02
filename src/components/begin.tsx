@@ -119,8 +119,8 @@ export default function Begin() {
           </div>
         </div>
       </div>
-      <div className="padding-global section">
-        <div className="container-large">
+      <div className="padding-global">
+        <div className="container-large section">
           <div className="extra-padding">
             <h2 className="homepage-h2">
               Leading customer feedback intelligence for product development
@@ -314,6 +314,213 @@ export default function Begin() {
               </div>
             </div>
           </div>
+        </div>
+      </div>
+      <div className="padding-global">
+        <div className="container-large section">
+          <div className="extra-padding">
+            <h2 className="homepage-h2">
+              Listen, learn, and act on customer feedback
+            </h2>
+            <div className="features-3c-wrapper top-margin-60-2">
+              <div>
+                <div className="gradient-for-features" />
+                <div className="features-2-card-main">
+                  <img
+                    src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/65059bbc8da9ae0eec69f74d_Layer_1%20(7).webp"
+                    className="features-2-icon"
+                    width={50}
+                  />
+                  <div className="justify-content-center">
+                    <div className="features-2-card-title top-margin-20">
+                      Source of truth
+                    </div>
+                    <div className="text-medium-16-2 top-margin-10">
+                      Unify all feedback from all sources in a matter of few
+                      minutes to get the most comprehensive voice of your
+                      customer.
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div className="gradient-for-features" />
+                <div className="features-2-card-main">
+                  <img
+                    src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/65059bbc80671c09d554569d_Layer_1%20(8).webp"
+                    className="features-2-icon"
+                    width={50}
+                  />
+                  <div className="justify-content-center">
+                    <div className="features-2-card-title top-margin-20">
+                      Custom Unified Feedback Taxonomy
+                    </div>
+                    <div className="text-medium-16-2 top-margin-10">
+                      Give structure to unstructured customer feedback -
+                      customized just for you. Taxonomy adapts to changes in
+                      feedback over time.
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div className="gradient-for-features" />
+                <div className="features-2-card-main">
+                  <img
+                    src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/65059bbdf53261fa63238432_Vector%20(31).webp"
+                    className="features-2-icon"
+                    width={40}
+                  />
+                  <div className="justify-content-center">
+                    <div className="features-2-card-title top-margin-20">
+                      Powerful semantic search
+                    </div>
+                    <div className="text-medium-16-2 top-margin-10">
+                      Uncomplicated Google-like search across all of your
+                      feedback. Search for what the user meant, not just how the
+                      user said it.
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div className="gradient-for-features" />
+                <div className="features-2-card-main">
+                  <img
+                    src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/65059bbcbf101fe68545183f_Layer_1%20(9).webp"
+                    className="features-2-icon"
+                    width={50}
+                  />
+                  <div className="justify-content-center">
+                    <div className="features-2-card-title top-margin-20">
+                      User-friendly analytics suite
+                    </div>
+                    <div className="text-medium-16-2 top-margin-10">
+                      Built for powerful insights but easy for non-technical
+                      operators with pleasant UI, easy to build dashboards, and
+                      automated summaries of relevant data.
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div className="gradient-for-features" />
+                <div className="features-2-card-main">
+                  <img
+                    src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/651b4b5bce751ea0ca3e4544_Enterpret_Profile%20Love.svg"
+                    className="features-2-icon"
+                    width={50}
+                  />
+                  <div className="justify-content-center">
+                    <div className="features-2-card-title top-margin-20">
+                      Partners
+                    </div>
+                    <div className="text-medium-16-2 top-margin-10">
+                      From implementation and onwards, get dedicated data
+                      auditors for weekly model refreshes, plus a dedicated CSM
+                      partner
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div className="gradient-for-features" />
+                <div className="features-2-card-main">
+                  <img
+                    src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/65059bbd4ef962529210183b_Layer_1%20(11).webp"
+                    className="features-2-icon"
+                    width={50}
+                  />
+                  <div className="justify-content-center">
+                    <div className="features-2-card-title top-margin-20">
+                      Unlimited user seats
+                    </div>
+                    <div className="text-medium-16-2 top-margin-10">
+                      Bring your entire team into Enterpret without prohibitive
+                      costs and foster a culture of customer-centric strategy
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="padding-global">
+        <div className="container-large section">
+          <div className="extra-padding">
+            <div className="feature">
+              <div className="feature-left">
+                <div className="blue-text">INTEGRATIONS</div>
+                <div className="features-title top-margin-20">
+                  Unified view of your customers
+                </div>
+                <div className="features-left-bottom-wrapper">
+                  <div className="features-left-bottom-text top-margin-20">
+                    Enterpret will integrate directly with any feedback channel.
+                    Take advantage of our CSV importer or API
+                  </div>
+                </div>
+                <a
+                  href="https://www.enterpret.com/integrations"
+                  className="button top-margin-40 w-inline-block"
+                >
+                  <div className="button-text">View all Integrations</div>
+                </a>
+              </div>
+              <div className="feature-right">
+                <div className="big-images-on-homepage">
+                  <img
+                    src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/651b4a382ae560bd8fd8eab2_Group%2037782.webp"
+                    className="big-images-on-homepage width-100"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="padding-global">
+        <div className="container-large section">
+          <div className="extra-padding">
+            <div className="feature">
+              <div className="feature-left">
+                <div className="blue-text">SECURITY</div>
+                <div className="features-title top-margin-20">
+                  Built for scale and enterprise level security
+                </div>
+                <div className="feature-left-bottom-wrapper">
+                  <div className="feature-left-bottom-text top-margin-20">
+                    SOC-2 Type II certification, penetration tested, and regular
+                    vulnerability scans. Hosted behind a VPC. Data encryption at
+                    rest and transit.
+                  </div>
+                </div>
+                <a
+                  href="https://www.enterpret.com/security"
+                  className="button top-margin-40 w-inline-block"
+                >
+                  <div className="button-text">Learn More</div>
+                </a>
+              </div>
+              <div className="feature-right flip">
+                <div className="big-images-on-homepage">
+                  <img
+                    src="https://cdn.prod.website-files.com/65030bfd09557ada51fe30e2/651c8916a3a77ae004635b2c_Group%201801708.webp"
+                    loading="lazy"
+                    width="410.5"
+                    alt=""
+                    className="big-images-on-homepage"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="padding-global">
+        <div className="container-large section">
+          <div className="extra-padding"></div>
         </div>
       </div>
     </>
